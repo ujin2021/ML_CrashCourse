@@ -8,7 +8,7 @@
 📖 unit6. 검증세트 <br>
 📖 unit7. 표현 <br>
 📖 unit8. 특성교차 <br>
-📖 unit9. 정규화: 단순성
+📖 unit9. 정규화: 단순성 <br>
 📘 unit10. 로지스틱 회귀<br>
 📘 unit11. 분류<br>
 📘 unit12. 정규화: 희소성 <br>
